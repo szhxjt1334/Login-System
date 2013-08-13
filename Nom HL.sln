@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nom HL", "Nom HL\Nom HL.csproj", "{7B535699-11C2-43DF-9C02-6EECBB8E6A6A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HLlib", "HLlib\HLlib.csproj", "{9DD63E81-3847-4F63-9DE2-3C1DA62EA84E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HLA", "HLA\HLA.csproj", "{4FF489A7-6A27-4694-B2C0-418CD6B00FC0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7B535699-11C2-43DF-9C02-6EECBB8E6A6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B535699-11C2-43DF-9C02-6EECBB8E6A6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B535699-11C2-43DF-9C02-6EECBB8E6A6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B535699-11C2-43DF-9C02-6EECBB8E6A6A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9DD63E81-3847-4F63-9DE2-3C1DA62EA84E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DD63E81-3847-4F63-9DE2-3C1DA62EA84E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DD63E81-3847-4F63-9DE2-3C1DA62EA84E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DD63E81-3847-4F63-9DE2-3C1DA62EA84E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4FF489A7-6A27-4694-B2C0-418CD6B00FC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FF489A7-6A27-4694-B2C0-418CD6B00FC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FF489A7-6A27-4694-B2C0-418CD6B00FC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FF489A7-6A27-4694-B2C0-418CD6B00FC0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
